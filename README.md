@@ -8,3 +8,5 @@
 - Open up terminal at the folder and run follwing code. % npm install
 - Once the installation has completed run following code. % node index.js
 - Navigate to http://localhost:3000
+
+<img src="holy-grail.gif" width='720' height='720'>
